@@ -1,0 +1,41 @@
+Order ID,Customer Name,Order Date,Product,Price
+1,Ravi,2024-01-10,Laptop,55000
+2,Anita,10-02-2024,Mobile,20000
+3,Suresh,2024/03/15,Tablet,
+4,Meena,15-04-2024,Headphones,3000
+5,Rahul,2024-05-18,,45000
+6,Pooja,2024-06-22,TV,72000
+7,Kiran,22-07-2024,AC,48000
+8,Divya,2024/08/05,Microwave,22000
+9,Arjun,05-09-2024,Fan,3500
+10,Neha,2024-10-12,Refrigerator,52000
+11,Ravi,2024-01-10,Laptop,55000
+12,,2024-11-18,Washing Machine,46000
+13,Sunil,18-12-2024,Lamp,1800
+14,Meena,2024/12/25,Camera,65000
+15,Ajay,,Router,3500
+16,Priya,2024-01-05,Desk,15000
+17,Amit,05-02-2024,TV,
+18,Rohit,2024-03-14,AC,48000
+19,Swathi,2024/04/20,Sofa,45000
+20,Vinay,20-05-2024,Bed,60000
+21,Kavya,2024-06-11,Speaker,9000
+22,Manoj,11-07-2024,Power Bank,
+23,Ritu,2024/08/18,Iron Box,3200
+24,Deepak,18-09-2024,Stool,2200
+25,Sneha,,Water Purifier,29000
+26,Nikhil,2024-10-09,Charger,1200
+27,Anusha,09-11-2024,Extension Cord,1600
+28,Harsha,2024/12/01,Projector,68000
+29,Ramesh,01-01-2025,Office Chair,9500
+30,Keerthi,2025-01-12,Pen Drive,900
+31,Sai,12-02-2025,Hard Disk,
+32,Madhavi,2025/03/05,Side Table,7500
+33,Prakash,05-04-2025,Air Cooler,21000
+34,Anil,,UPS,14000
+35,Rekha,2025-05-19,Whiteboard,6800
+36,Vishal,19-06-2025,Tripod,3500
+37,Teja,2025/07/08,Webcam,4200
+38,Chandana,08-08-2025,CPU,39000
+39,Suman,2025-09-10,Graphics Card,75000
+40,Radha,10-10-2025,Dining Table,58000
