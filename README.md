@@ -7,24 +7,24 @@ The objective of these projects is to build strong foundations in **NumPy, Panda
 
 ## 📁 Repository Structure
 
-Syntecxhub_Project_DataScience_Week1
+Syntecxhub_Project_DataScience_Week1/
 │
-├── Project-1-NumPy-Data-Explorer
-│ ├── numpy_data_explorer.py
-│ └── README.md
+├── Project-1-NumPy-Data-Explorer/
+│   ├── numpy_data_explorer.py
+│   └── README.md
 │
-├── Project-2-Pandas-CSV-Analysis
-│ ├── pandas_csv_analysis.py
-│ ├── sales_data.csv
-│ ├── electronics_sales.csv
-│ └── README.md
+├── Project-2-Pandas-CSV-Analysis/
+│   ├── pandas_csv_analysis.py
+│   ├── sales_data.csv
+│   ├── electronics_sales.csv
+│   └── README.md
 │
-├── Project-3-Data-Cleaning-Utility
-│ ├── data_cleaning_utility.py
-│ ├── raw_data.csv
-│ ├── cleaned_data.csv
-│ ├── cleaning_log.txt
-│ └── README.md
+└── Project-3-Data-Cleaning-Utility/
+    ├── data_cleaning_utility.py
+    ├── raw_data.csv
+    ├── cleaned_data.csv
+    ├── cleaning_log.txt
+    └── README.md
 
 ---
 
