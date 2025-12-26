@@ -1,0 +1,37 @@
+OrderID,Product,Category,Quantity,Price,Region
+1,Laptop,Electronics,2,55000,South
+3,Mobile,Electronics,3,20000,East
+5,Headphones,Electronics,4,3000,South
+6,Monitor,Electronics,1,15000,North
+7,Keyboard,Electronics,6,1500,East
+8,Mouse,Electronics,8,800,West
+9,Printer,Electronics,1,18000,South
+12,Tablet,Electronics,2,28000,West
+13,Smartwatch,Electronics,3,12000,South
+15,Camera,Electronics,1,65000,East
+16,Router,Electronics,4,3500,West
+18,TV,Electronics,1,72000,North
+19,AC,Electronics,1,48000,East
+20,Microwave,Electronics,2,22000,West
+21,Fan,Electronics,5,3500,South
+22,Refrigerator,Electronics,1,52000,North
+23,Washing Machine,Electronics,1,46000,East
+26,Speaker,Electronics,3,9000,North
+27,Power Bank,Electronics,7,2500,East
+28,Iron Box,Electronics,4,3200,West
+30,Water Purifier,Electronics,1,29000,North
+31,Charger,Electronics,10,1200,East
+32,Extension Cord,Electronics,6,1600,West
+33,Projector,Electronics,1,68000,South
+35,Pen Drive,Electronics,12,900,East
+36,Hard Disk,Electronics,2,6200,West
+38,Air Cooler,Electronics,2,21000,North
+39,UPS,Electronics,1,14000,East
+41,Tripod,Electronics,3,3500,South
+42,Webcam,Electronics,2,4200,North
+43,CPU,Electronics,1,39000,East
+44,Graphics Card,Electronics,1,75000,West
+46,Vacuum Cleaner,Electronics,1,17000,North
+47,Smart Bulb,Electronics,6,1800,East
+48,Sound Bar,Electronics,1,26000,West
+50,Calculator,Electronics,5,1400,North
